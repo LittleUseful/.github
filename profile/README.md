@@ -2,7 +2,7 @@
 
 We are a passionate group of developers and creators working on a diverse range of projects aimed at making life better and more interesting through technology. Explore our open-source projects and join us on this exciting journey!
 
-![Organization Logo - Coming Soon]()
+![Organization Logo](https://github.com/LittleUseful/.github/blob/afb51aebb7845ff5dd781455e53fcc43b429aa22/profile/Little%20Useful.png)
 
 ## Our Projects
 
